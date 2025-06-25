@@ -1,10 +1,10 @@
-# 🔹 Learn Dart (Flutter's Programming Language)
+#  Learn Dart (Flutter's Programming Language)
 
 Welcome to the Dart programming language lecture! Dart is the primary language used in Flutter, a popular UI toolkit for building natively compiled applications across mobile, web, and desktop from a single codebase.
 
 ---
 
-## 📌 1. Variables & Data Types
+##  1. Variables & Data Types
 
 ### ➤ Variables
 ```dart
@@ -25,7 +25,7 @@ String city = 'Bcdef';
 
 ---
 
-## 📌 2. Functions & Operators
+##  2. Functions & Operators
 
 ### ➤ Functions
 ```dart
@@ -44,7 +44,7 @@ int add(int a, int b) => a + b;
 
 ---
 
-## 📌 3. Control Flow Statements
+##  3. Control Flow Statements
 
 ### ➤ if-else
 ```dart
@@ -81,7 +81,7 @@ do {
 
 ---
 
-## 📌 4. Object-Oriented Programming
+##  4. Object-Oriented Programming
 
 ### ➤ Classes & Objects
 ```dart
@@ -127,7 +127,7 @@ class Circle extends Shape {
 
 ---
 
-## 📌 5. Asynchronous Programming
+##  5. Asynchronous Programming
 
 ### ➤ Futures & async-await
 ```dart
@@ -161,4 +161,4 @@ void main() {
 
 ---
 
-Happy Learning Dart! 🚀
+Happy Learning Dart!
