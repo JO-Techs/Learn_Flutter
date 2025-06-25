@@ -1,7 +1,7 @@
 # Learn_Flutter
-# 📱 Flutter Learning Roadmap 🚀
+# Flutter Learning Roadmap 
 
-## 📌 Introduction
+##  Introduction
 Flutter is an open-source UI software development toolkit by Google, used to create natively compiled applications for mobile, web, and desktop from a single codebase. This roadmap will guide you step by step to becoming proficient in Flutter development.
 
 ---
@@ -15,7 +15,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 - Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)
 - Asynchronous Programming (Futures, async-await, Streams)
 
-📚 **Resources:**
+ **Resources:**
 - [Dart Official Documentation](https://dart.dev/guides)
 - [DartPad (Online Dart Compiler)](https://dartpad.dev/)
 - [FreeCodeCamp Dart Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
@@ -28,7 +28,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 - Configure Emulator / Real Device
 - Run your first Flutter app
 
-📚 **Resources:**
+ **Resources:**
 - [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
 - [Flutter Setup for VS Code](https://code.visualstudio.com/docs/flutter)
 
@@ -42,7 +42,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 - Handling User Input (Forms, TextFields, Buttons)
 - Navigation and Routing
 
-📚 **Resources:**
+ **Resources:**
 - [Flutter Widget Catalog](https://docs.flutter.dev/ui/widgets)
 - [Flutter YouTube Course](https://www.youtube.com/watch?v=1ukSR1GRtMU)
 
@@ -53,7 +53,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 - Provider (Recommended for beginners)
 - Riverpod / Bloc (For Advanced State Management)
 
-📚 **Resources:**
+ **Resources:**
 - [Provider State Management](https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple)
 - [Flutter Bloc Documentation](https://bloclibrary.dev/)
 
@@ -64,7 +64,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 - Parsing JSON Data
 - Using Dio package for networking
 
-📚 **Resources:**
+ **Resources:**
 - [Flutter HTTP Package](https://pub.dev/packages/http)
 - [Fetching Data from API](https://docs.flutter.dev/cookbook/networking/fetch-data)
 
@@ -75,7 +75,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 - Firebase Firestore (NoSQL Database)
 - Hive (Lightweight Storage)
 
-📚 **Resources:**
+ **Resources:**
 - [Flutter Firebase Guide](https://firebase.google.com/docs/flutter/setup)
 - [Hive Database Guide](https://pub.dev/packages/hive)
 
@@ -87,7 +87,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 - Background Services & Notifications
 - Flutter for Web & Desktop
 
-📚 **Resources:**
+ **Resources:**
 - [Flutter Animation Guide](https://docs.flutter.dev/ui/animations)
 - [Flutter Web Documentation](https://docs.flutter.dev/platform-integration/web)
 
@@ -98,13 +98,13 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 - Play Store & App Store Guidelines
 - CI/CD for Flutter Apps
 
-📚 **Resources:**
+ **Resources:**
 - [Building Flutter APK](https://docs.flutter.dev/deployment/android)
 - [Flutter CI/CD Guide](https://docs.codemagic.io/getting-started/building-a-flutter-app/)
 
 ---
 
-## 🌟 Conclusion
+##  Conclusion
 By following this roadmap, you will gradually become proficient in Flutter development. Keep practicing by building projects, contributing to open-source, and staying updated with the latest Flutter releases!
 
 ---
@@ -114,4 +114,4 @@ By following this roadmap, you will gradually become proficient in Flutter devel
 - [Flutter GitHub Repository](https://github.com/flutter/flutter)
 - [Flutter Community](https://flutter.dev/community)
 
-🔥 **Happy Coding!** 🚀
+ **Happy Coding!** 
