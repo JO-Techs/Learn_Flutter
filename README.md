@@ -6,7 +6,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 
 ---
 
-## 🎯 Phase 1: Prerequisites
+##  Phase 1: Prerequisites
 
 ### 🔹 Learn Dart (Flutter's Programming Language)
 - Variables & Data Types
@@ -22,7 +22,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 
 ---
 
-## 🎯 Phase 2: Setting Up Flutter
+##  Phase 2: Setting Up Flutter
 - Install Flutter SDK [Guide](https://docs.flutter.dev/get-started/install)
 - Set up an IDE (VS Code / Android Studio)
 - Configure Emulator / Real Device
@@ -34,7 +34,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 
 ---
 
-## 🎯 Phase 3: Understanding Flutter Basics
+##  Phase 3: Understanding Flutter Basics
 - Flutter Architecture (Widgets, BuildContext, State Management)
 - Stateless vs Stateful Widgets
 - MaterialApp, Scaffold, and Widgets Tree
@@ -48,7 +48,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 
 ---
 
-## 🎯 Phase 4: State Management
+##  Phase 4: State Management
 - setState (Basic State Management)
 - Provider (Recommended for beginners)
 - Riverpod / Bloc (For Advanced State Management)
@@ -59,7 +59,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 
 ---
 
-## 🎯 Phase 5: Working with APIs
+##  Phase 5: Working with APIs
 - HTTP Requests (GET, POST, PUT, DELETE)
 - Parsing JSON Data
 - Using Dio package for networking
@@ -70,7 +70,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 
 ---
 
-## 🎯 Phase 6: Database & Storage
+##  Phase 6: Database & Storage
 - SQLite (Local Database)
 - Firebase Firestore (NoSQL Database)
 - Hive (Lightweight Storage)
@@ -81,7 +81,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 
 ---
 
-## 🎯 Phase 7: Advanced Topics
+##  Phase 7: Advanced Topics
 - Animations in Flutter
 - Custom Paint & Graphics
 - Background Services & Notifications
@@ -93,7 +93,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 
 ---
 
-## 🎯 Phase 8: Build & Publish Your App
+##  Phase 8: Build & Publish Your App
 - Generating APK & IPA
 - Play Store & App Store Guidelines
 - CI/CD for Flutter Apps
