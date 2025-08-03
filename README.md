@@ -24,7 +24,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 
 ##  Phase 2: Setting Up Flutter
 - Install Flutter SDK [Guide](https://docs.flutter.dev/get-started/install)
-- Set up an IDE (VS Code / Android Studio)
+- Set up an IDE (here VSCode)
 - Configure Emulator / Real Device
 - Run your first Flutter app
 
