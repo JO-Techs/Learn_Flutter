@@ -105,7 +105,7 @@ Flutter is an open-source UI software development toolkit by Google, used to cre
 ---
 
 ##  Conclusion
-By following this roadmap, you will gradually become proficient in Flutter development. Keep practicing by building projects, contributing to open-source, and staying updated with the latest Flutter releases!
+Keep practicing by building projects, contributing to open-source, and staying updated with the latest Flutter releases!
 
 ---
 
